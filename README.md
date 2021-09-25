@@ -3,7 +3,7 @@ A case study of an Albanian telecom company
 
 ## Description
 
-Repository containing the supporting files of the research paper with the same title.(TXT format)
+Repository containing the supporting files of the research paper with the same title. (TXT format)
 
 ## Authors
 
