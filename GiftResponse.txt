@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 2900
+Expires: Thu, 19 Nov 1981 08:50:00 GMT
+Date: [CURRENT DATETIME]
+Content-Type: text/html; charset=UTF-8
+Server: Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/7.3.12
+X-Powered-By: PHP/7.3.12
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Access-Control-Allow-Origin: *
+Vary: Accept-Encoding
+
+{"level":4,"winner":7,"result":true,"used":true,"prizes":[{"id":"2","name":"Provo përsëri","message":"Provoje përsëri nesër!","level_id":"4","probability":"22","color":"#f5a900","win":false},{"id":"7","name":"400MB","message":"Fitove 400 MB","level_id":"4","probability":"15","color":"#002855","win":true},{"id":"8","name":"300MB","message":"Fitove 300 MB","level_id":"4","probability":"15","color":"#f58320","win":false},{"id":"9","name":"500MB","message":"Fitove 500 MB","level_id":"4","probability":"12","color":"#00a8bb","win":false},{"id":"10","name":"600MB","message":"Fitove 600 MB","level_id":"4","probability":"10","color":"#006a90","win":false},{"id":"12","name":"800MB","message":"Fitove 800 MB","level_id":"4","probability":"3","color":"#baced8","win":false},{"id":"18","name":"100SMS One","message":"Fitove 100 SMS One","level_id":"4","probability":"5","color":"#df6165","win":false},{"id":"22","name":"50SMS One","message":"Fitove 50 SMS One","level_id":"4","probability":"13","color":"#00a9e0","win":false},{"id":"23","name":"80SMS One","message":"Fitove 80 SMS One","level_id":"4","probability":"5","color":"#002855","win":false}],"winnerMessage":"Fitove 400 MB","innerNo":false,"token":"[TOKEN GOES HERE]"}

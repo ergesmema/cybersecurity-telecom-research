@@ -1,0 +1,23 @@
+POST /funzone/web/func/fetch.php HTTP/1.1
+Host: funzone.one.al
+Connection: close
+Content-Length: 250
+Origin: https://funzone.one.al
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryAbGHqHlfsroG141j
+Accept: */*
+Referer: [REFERRING PAGE URL GOES HERE ]
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+Cookie: [COOKIE GOES HERE]
+X-Requested-With: com.tal.myone
+
+------WebKitFormBoundaryAbGHqHlfsroG141j
+Content-Disposition: form-data; name="param"
+
+[UNIQUE ID GOES HERE]
+------WebKitFormBoundaryAbGHqHlfsroG141j
+Content-Disposition: form-data; name="req"
+
+2
+------WebKitFormBoundaryAbGHqHlfsroG141j--
